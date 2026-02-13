@@ -1,0 +1,11 @@
+﻿nltk
+pandas
+scikit-learn
+scipy
+torch
+sentence-transformers
+numpy
+matplotlib
+seaborn
+langdetect
+tabulate

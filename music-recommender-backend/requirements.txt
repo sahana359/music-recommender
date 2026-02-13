@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+python-dotenv
+pandas   # if you preprocess input
+gunicorn
+nltk
+scikit-learn
+numpy
+langdetect
